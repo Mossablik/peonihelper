@@ -1,0 +1,26 @@
+{
+  "name": "helper-bot",
+  "version": "1.0.0",
+  "description": "Helper - a prefix + slash Discord bot with verification, applications, clans, tickets, moderation, jail and more.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js",
+    "check": "node scripts/validate.js",
+    "smoke": "node scripts/smoke.js",
+    "test": "node scripts/validate.js && node scripts/smoke.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "moderation",
+    "prefix",
+    "slash-commands"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/voice": "^0.19.2",
+    "discord.js": "^14.27.0",
+    "libsodium-wrappers": "^0.8.4"
+  }
+}

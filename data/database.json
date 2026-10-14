@@ -1,0 +1,119 @@
+{
+  "guilds": {
+    "1559264354627489956": {
+      "verification": {
+        "channelId": "1559264355995091057",
+        "roleId": "1559649505253785671"
+      },
+      "apply": {
+        "pending": {},
+        "fields": [
+          {
+            "label": "age",
+            "style": "Short",
+            "placeholder": "",
+            "required": true
+          }
+        ],
+        "roleId": "1559647278698991636",
+        "reviewChannelId": "1559648268101750967",
+        "panelChannelId": "1559686766020137081",
+        "panelMessageId": "1559688500973019248",
+        "managerRoleId": "1559649505253785671"
+      },
+      "tickets": {
+        "categoryId": "1559661269106167958",
+        "staffRoleId": "1559568764666908672",
+        "logChannelId": "1559689266936811620",
+        "panelChannelId": "1559661109391138856",
+        "panelMessageId": "1559661270318321749",
+        "open": {}
+      },
+      "selfroles": {
+        "options": [
+          {
+            "roleId": "1559522602429718628",
+            "emoji": "<a:11pm_dance2:1037863295413137438>",
+            "label": "asdasdasd"
+          },
+          {
+            "roleId": "1559568764666908672",
+            "emoji": "<a:cat_flower:1458875128430592011>",
+            "label": "sdsdsd"
+          },
+          {
+            "roleId": "1559647278698991636",
+            "emoji": "<a:blue_fire_gn:1554987673641287710>",
+            "label": "ert"
+          }
+        ],
+        "channelId": "1559689266936811620",
+        "messageId": "1559986530401918977"
+      },
+      "jail": {
+        "roleId": "1559568764666908672",
+        "channelId": "1559686766020137081",
+        "history": [
+          {
+            "at": 1792000106337,
+            "userId": "852565915433435166",
+            "by": "1372896083159547916",
+            "reason": "No reason provided",
+            "action": "jail"
+          },
+          {
+            "at": 1792000144828,
+            "userId": "852565915433435166",
+            "by": "1372896083159547916",
+            "reason": "No reason provided",
+            "action": "unjail"
+          }
+        ]
+      },
+      "warns": {},
+      "tags": {},
+      "welcome": {},
+      "starboard": {},
+      "prefix": null,
+      "modlogs": [
+        {
+          "action": "Kick",
+          "target": "1526621486620606677",
+          "moderator": "1372896083159547916",
+          "reason": "slak",
+          "at": 1791922844603
+        }
+      ]
+    }
+  },
+  "clanSeq": {
+    "1559264354627489956": 1
+  },
+  "clans": {
+    "1559264354627489956": {
+      "1": {
+        "id": "1",
+        "name": "chlahbiya",
+        "leaderId": "1372896083159547916",
+        "members": {
+          "1372896083159547916": "leader"
+        },
+        "points": 0,
+        "icon": "https://cdn.discordapp.com/attachments/1559264355995091056/1559557340095582330/image.png?ex=6acf8275&is=6ace30f5&hm=bce544bb2f8fc8646912742637969bdeb1177c5cd379649c46f4021a439c30f0&",
+        "createdAt": 1791897786453,
+        "invites": []
+      }
+    }
+  },
+  "userClan": {
+    "1559264354627489956": {
+      "1372896083159547916": "1"
+    }
+  },
+  "applies": {
+    "1559264354627489956": {}
+  },
+  "jaildb": {
+    "1559264354627489956": {}
+  }
+}
